@@ -8,5 +8,5 @@ class persona():
             return  f"Hola {self.nombre.capitalize()}"
 
 
-dario = persona("Nestor","sbarbati",34149964)
+dario = persona("Nestor ","sbarbati",34149964)
 print(dario.saludar())
